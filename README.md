@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/AnikKapat/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
