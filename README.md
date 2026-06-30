@@ -18,5 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/AnikKapat/LeetCode/tree/master/2974-minimum-number-game) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
