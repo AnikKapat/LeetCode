@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2974-minimum-number-game](https://github.com/AnikKapat/LeetCode/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [2974-minimum-number-game](https://github.com/AnikKapat/LeetCode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/AnikKapat/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/AnikKapat/LeetCode/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AnikKapat/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
