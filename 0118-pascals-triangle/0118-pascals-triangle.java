@@ -1,19 +1,25 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
 
         for (int i = 0; i < numRows; i++) {
             List<Integer> row = new ArrayList<>();
 
-            int num = 1;
             for (int j = 0; j <= i; j++) {
-                row.add(num);
-                num = num * (i - j) / (j + 1);
+
+                // First and last element are always 1
+                if (j == 0 || j == i) {
+                    row.add(1);
+                } else {
+                    // Sum of the two numbers above
+                    int val = ans.get(i - 1).get(j - 1) + ans.get(i - 1).get(j);
+                    row.add(val);
+                }
             }
 
-            result.add(row);
+            ans.add(row);
         }
 
-        return result;
+        return ans;
     }
 }
