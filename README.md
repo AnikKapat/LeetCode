@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnikKapat/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AnikKapat/LeetCode/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/AnikKapat/LeetCode/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/AnikKapat/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnikKapat/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AnikKapat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AnikKapat/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnikKapat/LeetCode/tree/master/0217-contains-duplicate) |
