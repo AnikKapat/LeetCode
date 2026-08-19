@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnikKapat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AnikKapat/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnikKapat/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/AnikKapat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/AnikKapat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnikKapat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AnikKapat/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AnikKapat/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnikKapat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnikKapat/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AnikKapat/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
@@ -179,4 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AnikKapat/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AnikKapat/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/AnikKapat/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
