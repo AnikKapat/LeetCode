@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AnikKapat/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/AnikKapat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnikKapat/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
