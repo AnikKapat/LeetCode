@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/AnikKapat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/AnikKapat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AnikKapat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnikKapat/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnikKapat/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AnikKapat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnikKapat/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnikKapat/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -162,11 +164,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AnikKapat/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
