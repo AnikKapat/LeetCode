@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AnikKapat/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AnikKapat/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AnikKapat/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/AnikKapat/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnikKapat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnikKapat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/AnikKapat/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnikKapat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnikKapat/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/AnikKapat/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/AnikKapat/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnikKapat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
