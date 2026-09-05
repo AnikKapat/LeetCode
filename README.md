@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AnikKapat/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnikKapat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnikKapat/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/AnikKapat/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/AnikKapat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnikKapat/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AnikKapat/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AnikKapat/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AnikKapat/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/AnikKapat/LeetCode/tree/master/0680-valid-palindrome-ii) |
