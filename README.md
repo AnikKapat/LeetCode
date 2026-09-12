@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AnikKapat/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnikKapat/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/AnikKapat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/AnikKapat/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AnikKapat/LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/AnikKapat/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnikKapat/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnikKapat/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/AnikKapat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/AnikKapat/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnikKapat/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnikKapat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/AnikKapat/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2974-minimum-number-game](https://github.com/AnikKapat/LeetCode/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AnikKapat/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AnikKapat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/AnikKapat/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/AnikKapat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AnikKapat/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnikKapat/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AnikKapat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AnikKapat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/AnikKapat/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnikKapat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnikKapat/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -227,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnikKapat/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnikKapat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/AnikKapat/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/AnikKapat/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AnikKapat/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
