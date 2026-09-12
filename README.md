@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AnikKapat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AnikKapat/LeetCode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/AnikKapat/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnikKapat/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AnikKapat/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnikKapat/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/AnikKapat/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AnikKapat/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/AnikKapat/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AnikKapat/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Quicksort
 |  |
