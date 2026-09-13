@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AnikKapat/LeetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
 | [2974-minimum-number-game](https://github.com/AnikKapat/LeetCode/tree/master/2974-minimum-number-game) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AnikKapat/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnikKapat/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/AnikKapat/LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/AnikKapat/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AnikKapat/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnikKapat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AnikKapat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AnikKapat/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/AnikKapat/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AnikKapat/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AnikKapat/LeetCode/tree/master/0290-word-pattern) |
