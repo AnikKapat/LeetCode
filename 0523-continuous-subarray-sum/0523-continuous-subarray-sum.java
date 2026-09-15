@@ -23,8 +23,12 @@ class Solution {
 
                 // If the distance between the two indices
                 // is at least 2, we found a valid subarray.
-                if (i - map.get(remainder) >= 2) {
-                    return true;
+                if (map.containsKey(remainder)) {
+                    int oldIndex = map.get(remainder);
+
+                    if (i - oldIndex >= 2) {
+                        return true;
+                    }
                 }
             }
             else {
