@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AnikKapat/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnikKapat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnikKapat/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/AnikKapat/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AnikKapat/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/AnikKapat/LeetCode/tree/master/2974-minimum-number-game) |
 ## Sorting
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AnikKapat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AnikKapat/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/AnikKapat/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/AnikKapat/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 ## String
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/AnikKapat/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnikKapat/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/AnikKapat/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Greedy
 |  |
 | ------- |
