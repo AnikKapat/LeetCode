@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/AnikKapat/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnikKapat/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AnikKapat/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnikKapat/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnikKapat/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AnikKapat/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnikKapat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnikKapat/LeetCode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/AnikKapat/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AnikKapat/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnikKapat/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnikKapat/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Number Theory
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AnikKapat/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AnikKapat/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/AnikKapat/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnikKapat/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AnikKapat/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnikKapat/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AnikKapat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/AnikKapat/LeetCode/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/AnikKapat/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnikKapat/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnikKapat/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AnikKapat/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AnikKapat/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AnikKapat/LeetCode/tree/master/0724-find-pivot-index) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AnikKapat/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/AnikKapat/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AnikKapat/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 ## String
