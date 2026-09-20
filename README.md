@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnikKapat/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AnikKapat/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AnikKapat/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnikKapat/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnikKapat/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnikKapat/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/AnikKapat/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AnikKapat/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/AnikKapat/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnikKapat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AnikKapat/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/AnikKapat/LeetCode/tree/master/0125-valid-palindrome) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnikKapat/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AnikKapat/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
